@@ -1,3 +1,3 @@
-Nome:Jhonata de oliveira Claudio
-Matricula:2061
-Curso:GEC
+Nome:Jhonata de oliveira Claudio n\
+Matricula:2061 n\
+Curso:GEC n\
